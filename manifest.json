@@ -1,0 +1,16 @@
+{
+  "name": "Confluence Label Collector",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "description": "Confluence Label Collector Extension from Techcombank",
+  "permissions": [
+    "scripting",
+    "clipboardWrite"
+  ],
+  "host_permissions": [
+    "<all_urls>"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
